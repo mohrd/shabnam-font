@@ -6,7 +6,14 @@
     "Mohammad-Reza <mr.mohrd@gmail.com>"
   ],
   "description": "",
-  "main": "",
+  "main": [
+    "Shabnam-Bold.eot",
+    "Shabnam-Bold.ttf",
+    "Shabnam-Bold.woff",
+    "Shabnam.eot",
+    "Shabnam.ttf",
+    "Shabnam.woff"
+  ],
   "keywords": [
     "font",
     "persian",
